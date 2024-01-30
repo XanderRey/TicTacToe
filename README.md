@@ -40,10 +40,6 @@ A step-by-step series of examples that tell you how to get a development environ
 
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) - The programming language used
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Authors
 
 - **Xander Rey** - *Initial work* - [XanderRey](https://github.com/XanderRey)
